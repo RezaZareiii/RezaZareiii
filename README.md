@@ -1,12 +1,11 @@
 # Thanks for visiting my Git! 👋
 
 ## About me
-Highly capable Android and Backend developer with expreince of developing testable and scalable applications
+Highly capable Backend And Android developer with expreince of developing testable and scalable applications
 
-## Experience:
-+ 5 years of experience in Android development
+## Experience: 
++ 3 years of experience in Golang
 + 3 years of experience in MySQL, MongoDB, ElasticSearch, Nodejs and PHP
-+ 2 years of experience in Golang
 
 -------------------------------------------------------------------------------------------------------
 
