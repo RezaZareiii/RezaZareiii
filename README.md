@@ -57,14 +57,6 @@ I enjoy building reliable software, optimizing database performance, and sharing
 
 ---
 
-## 📈 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadrezazarei&count_private=true&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadrezazarei&layout=compact&hide_border=true&count_private=true&include_all_commits=true&theme=radical)
-
----
-
 ## 🌐 Connect With Me
 
 - LinkedIn: https://linkedin.com/in/ahmadrezazareii
